@@ -1,0 +1,10 @@
+Part Number,Revision,Description,Where Used,Status,Last Updated
+PN001,A,Widget Assembly Base Unit,"Assy-101, Assy-202",Active,2026-01-18 20:24
+PN002,B,Control Module v2,"Product X, Product Y Rev C",Active,2026-01-18 20:24
+PN003,A,Sensor Housing Stainless,"Assy-303, Test Fixture 4",Active,2026-01-18 20:24
+PN004,C,Gearbox 90deg 1:5 ratio,"Robot Arm v3, Conveyor B",Obsolete,2026-01-18 20:24
+PN005,A,Power Supply 24V 5A,"Control Cabinet A, Backup Unit",Active,2026-01-18 20:24
+PN006,A,Mounting Bracket Left,"Assy-101, Assy-202",New,2026-01-18 20:24
+PN007,B,Mounting Bracket Right,"Assy-101, Assy-202",Active,2026-01-18 20:24
+PN101,1,Main Chassis Weldment,"Product X Final, Product Y",Active,2026-01-18 20:24
+PN102,A-1,Testpart,"PN101, PN005",Active,2026-01-18 20:25
